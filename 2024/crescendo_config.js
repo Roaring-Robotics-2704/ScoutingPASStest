@@ -124,6 +124,10 @@ var config_data = `
     { "name": "Note in Trap",
       "code": "nit",
       "type": "bool"
+    },
+    { "name": "Number of Spotlights"
+      "code": "nos",
+      "type": "counter"
     }
   ],
   "postmatch": [
