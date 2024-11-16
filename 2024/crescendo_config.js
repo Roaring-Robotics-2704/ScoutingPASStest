@@ -125,7 +125,7 @@ var config_data = `
       "code": "nit",
       "type": "bool"
     },
-    { "name": "Number of Spotlights"
+    { "name": "Number of Spotlights",
       "code": "nos",
       "type": "counter"
     }
